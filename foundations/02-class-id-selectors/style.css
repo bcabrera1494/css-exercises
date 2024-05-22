@@ -1,0 +1,15 @@
+p.odd {
+    background-color: #ffb6c1;
+    font-family: verdana, DejaVu sans-serif;
+}
+div#ID-1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+div#ID-2 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+p.cooler {font-size: 24px;}
