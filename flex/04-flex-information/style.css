@@ -41,7 +41,7 @@ img {
   
 }
 
-.plants > #plant-1,#plant-2,#plant-3,#plant4{
-  display: flex;
 
+.plant-1.plant-2.plant-3.plant-4 {
+  width: 200px;
 }
